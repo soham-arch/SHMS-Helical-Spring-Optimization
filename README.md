@@ -120,7 +120,7 @@ All outputs and implementation snapshots are available in the `screenshots/` fol
 ---
 
 ## 🔗 Project Link
-👉 [Insert your GitHub repo link here
+👉 https://github.com/soham-arch/SHMS-Helical-Spring-Optimization.git
 
 ---
 
@@ -135,7 +135,8 @@ This project was developed as part of an engineering innovation competition focu
 
 ---
 
-## 📬 Connect with Me
-🔗 LinkedIn: [Insert your LinkedIn profile link]
+## 📬 Connect with Us
+🔗 LinkedIn: https://github.com/soham-arch
+             https://github.com/renukakulkarni2721
 
 ---
